@@ -7,7 +7,7 @@ https://github.com/catriname/CoreToWordPress
 ## Part 2: Custom Wordpress Plugin/Shortcode
 https://github.com/catriname/WordPressPlugins
 
-##Original Blog Post
+## Original Blog Post
 [.NET Core API into WordPress](https://www.catrina.codes/net-api-into-wordpress-front-end/ ".NET Core API into WordPress")
 
 ## Example Use
