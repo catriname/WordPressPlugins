@@ -11,4 +11,5 @@ https://github.com/catriname/WordPressPlugins
 
 ## Example Use
 [catcod_product_lines] - to list product lines
+
 [catcod_products line= "classic-cars"] - inside page for selected line
