@@ -1,0 +1,10 @@
+/*overwrite bootstrap coloring*/
+a{
+    color: #6272a4;
+    text-decoration: unset;
+}
+
+/*overwrite theme setting that creates bottom shadow on buttons*/
+.entry-content a {
+    border-bottom: unset !important;
+}
