@@ -1,4 +1,4 @@
-This is one half of a two part project.  The probject connects two technologies, bringing in an existing product listing by building a .NET Core API over a MySQL Database and building a custom shortcode/plugin to drop that listing into WordPress.
+This is one half of a two part project.  The project connects two technologies, bringing in an existing product listing by building a .NET Core API over a MySQL Database and building a custom shortcode/plugin to drop that listing into WordPress.
 
 ## Requirements
 This assumes some familiarity with .NET Core and WordPress, C#, PHP, and general development.  It is just an overview of the process.
